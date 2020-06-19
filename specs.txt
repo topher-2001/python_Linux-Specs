@@ -1,0 +1,19 @@
+======= CPU =======
+Version: AMD Ryzen 5 3600 6-Core Processor              
+Core Count: 6
+Thread Count: 12
+Max Speed: 4200 MHz
+======= GPU =======
+Device: AMD Radeon (TM) RX 460 Graphics (POLARIS11, DRM 3.35.0, 5.4.0-37-generic, LLVM 9.0.0) (0x67ef)
+Video memory: 4096MB
+======= RAM BANK 0 =======
+Manufacturer: Patriot
+Configured Clock Speed: 2666 MT/s
+Size: 4096 MB
+======= RAM BANK 1 =======
+Manufacturer: Patriot
+Configured Clock Speed: 2666 MT/s
+Size: 4096 MB
+======= MOTHER BOARD =======
+Manufacturer: ASUSTeK COMPUTER INC.
+Product Name: PRIME A320M-K
